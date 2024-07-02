@@ -1,0 +1,12 @@
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\bin\Debug\net8.0\Example.TicketManagement.Domain.deps.json
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\bin\Debug\net8.0\Example.TicketManagement.Domain.dll
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\bin\Debug\net8.0\Example.TicketManagement.Domain.pdb
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.sourcelink.json
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.dll
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\refint\Example.TicketManagement.Domain.dll
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.pdb
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\ref\Example.TicketManagement.Domain.dll
