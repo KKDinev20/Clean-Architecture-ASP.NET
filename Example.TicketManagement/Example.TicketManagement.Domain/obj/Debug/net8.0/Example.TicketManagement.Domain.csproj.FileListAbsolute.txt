@@ -10,3 +10,4 @@ C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketM
 C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\refint\Example.TicketManagement.Domain.dll
 C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.pdb
 C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\ref\Example.TicketManagement.Domain.dll
+C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\obj\Debug\net8.0\Example.TicketManagement.Domain.csproj.AssemblyReference.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7IRi0VJJJ4U=",
+  "dgSpecHash": "mIF1euDJu3k=",
   "success": true,
   "projectFilePath": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\KonstantinDinev\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
+using GloboTicket.TicketManagement.Application.Contracts.Persistence;
 using GloboTicket.TicketManagement.Domain.Entities;
 using MediatR;
-using Example.TicketManagement.Application.Contracts.Persistence;
 
-namespace Example.TicketManagement.Application.Features.Events.Queries.GetEventsDetail
+namespace GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventDetail
 {
     public class GetEventDetailQueryHandler : IRequestHandler<GetEventDetailQuery, EventDetailVm>
     {
