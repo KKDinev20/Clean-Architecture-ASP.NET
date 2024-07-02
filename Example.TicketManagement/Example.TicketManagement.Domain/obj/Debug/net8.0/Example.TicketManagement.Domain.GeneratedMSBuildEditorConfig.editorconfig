@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Example.TicketManagement.Domain
-build_property.ProjectDir = C:\Users\KonstantinDinev\source\repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\
+build_property.ProjectDir = C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

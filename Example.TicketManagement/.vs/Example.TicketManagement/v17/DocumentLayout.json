@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\contracts\\persistence\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\contracts\\persistence\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\contracts\\persistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\contracts\\persistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\contracts\\persistence\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\contracts\\persistence\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\features\\events\\geteventdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\features\\events\\geteventdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\features\\events\\eventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\features\\events\\eventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
-              "RelativeToolTip": "Example.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Example.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T13:26:06.072Z",
+              "WhenOpened": "2024-07-02T15:28:11.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEventRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
-              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
-              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
-              "RelativeToolTip": "Example.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Title": "GetEventDetailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
+              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
+              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
+              "RelativeToolTip": "Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T13:25:40.726Z",
+              "WhenOpened": "2024-07-02T15:24:38.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
-              "RelativeToolTip": "Example.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Example.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T13:25:38.092Z",
+              "WhenOpened": "2024-07-02T15:09:58.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventListVm.cs",
+              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
+              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
+              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
+              "RelativeToolTip": "Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:48:36.015Z",
               "EditorCaption": ""
             }
           ]

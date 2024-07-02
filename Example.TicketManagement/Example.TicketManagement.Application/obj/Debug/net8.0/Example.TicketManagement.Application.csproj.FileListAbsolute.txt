@@ -1,0 +1,16 @@
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\bin\Debug\net8.0\Example.TicketManagement.Application.deps.json
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\bin\Debug\net8.0\Example.TicketManagement.Application.dll
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\bin\Debug\net8.0\Example.TicketManagement.Application.pdb
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\bin\Debug\net8.0\Example.TicketManagement.Domain.dll
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\bin\Debug\net8.0\Example.TicketManagement.Domain.pdb
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.sourcelink.json
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example..7CB2F0B0.Up2Date
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.dll
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\refint\Example.TicketManagement.Application.dll
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\Example.TicketManagement.Application.pdb
+C:\Users\KonstantinDinev\Source\Repos\Clean-Architecture-ASP.NET\Example.TicketManagement\Example.TicketManagement.Application\obj\Debug\net8.0\ref\Example.TicketManagement.Application.dll

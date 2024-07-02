@@ -1,5 +1,8 @@
 {
-  "ExpandedNodes": [],
-  "SelectedNode": "\\Example.TicketManagement.sln",
+  "ExpandedNodes": [
+    "",
+    "\\Example.TicketManagement"
+  ],
+  "SelectedNode": "\\Example.TicketManagement\\Example.TicketManagement.sln",
   "PreviewInSolutionExplorer": false
 }
