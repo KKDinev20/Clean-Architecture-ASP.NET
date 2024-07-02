@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\features\\events\\geteventdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\features\\events\\geteventdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\features\\events\\queries\\geteventsdetail\\geteventdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\features\\events\\queries\\geteventsdetail\\geteventdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\features\\events\\eventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\features\\events\\eventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|c:\\users\\konstantindinev\\source\\repos\\clean-architecture-asp.net\\example.ticketmanagement\\example.ticketmanagement.application\\features\\events\\queries\\geteventslist\\eventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4462659F-8120-48AE-A7A8-85BC982DB1FF}|Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj|solutionrelative:example.ticketmanagement.application\\features\\events\\queries\\geteventslist\\eventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,10 +45,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GetEventDetailQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
-              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
-              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
-              "RelativeToolTip": "Example.TicketManagement.Application\\Features\\Events\\GetEventDetailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsDetail\\GetEventDetailQueryHandler.cs",
+              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsDetail\\GetEventDetailQueryHandler.cs",
+              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsDetail\\GetEventDetailQueryHandler.cs",
+              "RelativeToolTip": "Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsDetail\\GetEventDetailQueryHandler.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T15:24:38.297Z",
@@ -71,10 +71,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EventListVm.cs",
-              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
-              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
-              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
-              "RelativeToolTip": "Example.TicketManagement.Application\\Features\\Events\\EventListVm.cs",
+              "DocumentMoniker": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsList\\EventListVm.cs",
+              "RelativeDocumentMoniker": "Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsList\\EventListVm.cs",
+              "ToolTip": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsList\\EventListVm.cs",
+              "RelativeToolTip": "Example.TicketManagement.Application\\Features\\Events\\Queries\\GetEventsList\\EventListVm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T14:48:36.015Z",

@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Example.TicketManagement.Domain\Example.TicketManagement.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Events\Commands\CreateEvent\" />
+  </ItemGroup>
+
 </Project>

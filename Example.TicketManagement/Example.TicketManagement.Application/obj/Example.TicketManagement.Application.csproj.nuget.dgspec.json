@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj": {}
+    "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj": {
+    "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj",
         "projectName": "Example.TicketManagement.Application",
-        "projectPath": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj",
+        "projectPath": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\Example.TicketManagement.Application.csproj",
         "packagesPath": "C:\\Users\\KonstantinDinev\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj"
+              "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj"
               }
             }
           }
@@ -86,12 +86,12 @@
         }
       }
     },
-    "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj": {
+    "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj",
         "projectName": "Example.TicketManagement.Domain",
-        "projectPath": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\KonstantinDinev\\source\\repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\Example.TicketManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\KonstantinDinev\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\KonstantinDinev\\Source\\Repos\\Clean-Architecture-ASP.NET\\Example.TicketManagement\\Example.TicketManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",

@@ -3,7 +3,7 @@ using GloboTicket.TicketManagement.Domain.Entities;
 using MediatR;
 using Example.TicketManagement.Application.Contracts.Persistence;
 
-namespace GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventDetail
+namespace Example.TicketManagement.Application.Features.Events.Queries.GetEventsDetail
 {
     public class GetEventDetailQueryHandler : IRequestHandler<GetEventDetailQuery, EventDetailVm>
     {
